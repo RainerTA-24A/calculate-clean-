@@ -1,1 +1,2 @@
 # calculate-clean-
+rainer sinu kuradi ülesanne on teha kalkulaator full peast. Ei tohiks olla keeruline lihtsalt natukene mõtlemist, kui see on valmis siis sa oled ka valmis tegema projekt 3 javascripti osa!  Pane enda kuradi aju tööle ja ära mõtle nõrgalt.
